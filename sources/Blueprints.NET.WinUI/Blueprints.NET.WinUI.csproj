@@ -2,7 +2,6 @@
 
     <PropertyGroup>
         <TargetFrameworks>$(StandardTargetFramework);$(StandardTargetFramework)-windows10.0.19041.0</TargetFrameworks>
-        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     </PropertyGroup>
 
     <ItemGroup>
