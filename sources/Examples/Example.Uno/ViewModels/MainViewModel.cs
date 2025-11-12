@@ -24,8 +24,7 @@ public partial class MainViewModel : ObservableObject
         Nodes = nodes;
     }
 
-    [ObservableProperty]
-    public partial IEnumerable<Node> Nodes { get; set; }
+    public IEnumerable<Node> Nodes { get; }
 
     [RelayCommand]
     private void ConnectNodes()
