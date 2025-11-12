@@ -5,7 +5,7 @@
         <PackageOutputPath>$(MSBuildThisFileDirectory)..\.nuget</PackageOutputPath>
 
         <!-- Package Metadata -->
-        <Version>0.0.1</Version>
+        <Version>0.0.2</Version>
         <Authors>qian-o</Authors>
         <Copyright>Copyright (c) 2025 qian-o</Copyright>
 
